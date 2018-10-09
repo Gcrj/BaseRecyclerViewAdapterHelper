@@ -2,8 +2,8 @@ package com.chad.baserecyclerviewadapterhelper.adapter;
 
 import com.chad.baserecyclerviewadapterhelper.R;
 import com.chad.baserecyclerviewadapterhelper.base.BaseDataBindingAdapter;
-import com.chad.baserecyclerviewadapterhelper.databinding.ItemMovieBinding;
 import com.chad.baserecyclerviewadapterhelper.entity.Movie;
+import com.chad.baserecyclerviewadapterhelper.databinding.ItemMovieBinding;
 
 /**
  * Created by tysheng

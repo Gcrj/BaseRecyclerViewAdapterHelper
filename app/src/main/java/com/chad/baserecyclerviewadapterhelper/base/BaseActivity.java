@@ -2,8 +2,6 @@ package com.chad.baserecyclerviewadapterhelper.base;
 
 import android.os.Build;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
@@ -13,6 +11,9 @@ import android.widget.TextView;
 
 import com.chad.baserecyclerviewadapterhelper.R;
 import com.orhanobut.logger.Logger;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
 
 /**
  * 文 件 名: BaseActivity
